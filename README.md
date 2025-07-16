@@ -1,0 +1,32 @@
+# revs-eg 👕
+
+An online platform for showcasing and selling stylish **Revs Egypt T-shirts**.
+
+## 🧵 About
+
+**revs-eg** is a simple and clean GitHub repository representing the design, branding, and development of a modern T-shirt store based in Egypt. Whether you're a fan of streetwear or looking to launch a merch line, this project lays the foundation.
+
+## 🚀 Features
+
+- Modern and minimal branding
+- Product listing (T-shirts)
+- Basic structure for e-commerce (future-ready)
+- Mobile-friendly layout (if applicable)
+
+## 🛠️ Tech Stack (Optional - fill in if you're using any)
+
+- HTML / CSS / JS  
+- React / Next.js  
+- Firebase / Supabase / etc.  
+*(Replace or remove this section based on your actual tech)*
+
+## 📦 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/hazemelshouny1/revs-eg.git
+cd revs-eg
+![Revs T-shirt](shirt1.png)
+git clone https://github.com/hazemelshouny1/revs-eg.git
+cd revs-eg
