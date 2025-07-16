@@ -51,3 +51,8 @@ cd revs-eg
 
 ![Revs T-shirt 9](shirt9.png)
 
+git add README.md
+git commit -m "Added 9 T-shirt images to README"
+git push
+
+
