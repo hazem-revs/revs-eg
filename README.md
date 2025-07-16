@@ -55,4 +55,5 @@ git add README.md
 git commit -m "Added 9 T-shirt images to README"
 git push
 
+[Buy Revs T-shirt 1](http://link-to-store.com)
 
