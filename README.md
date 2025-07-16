@@ -57,3 +57,4 @@ git push
 
 [Buy Revs T-shirt 1](http://link-to-store.com)
 
+"Added 9 T-shirt images to README"
