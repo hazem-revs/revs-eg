@@ -27,18 +27,27 @@ Clone the repository:
 ```bash
 git clone https://github.com/hazemelshouny1/revs-eg.git
 cd revs-eg
-![Revs T-shirt](shirt1.png)
 git clone https://github.com/hazemelshouny1/revs-eg.git
 cd revs-eg
 ![Revs T-shirt](shirt1.png)
 ## Revs T-shirts Collection
+## Revs T-shirts Collection
 
 ![Revs T-shirt 1](shirt1.png)
+
 ![Revs T-shirt 2](shirt2.png)
+
 ![Revs T-shirt 3](shirt3.png)
+
 ![Revs T-shirt 4](shirt4.png)
+
 ![Revs T-shirt 5](shirt5.png)
+
 ![Revs T-shirt 6](shirt6.png)
+
 ![Revs T-shirt 7](shirt7.png)
+
 ![Revs T-shirt 8](shirt8.png)
+
 ![Revs T-shirt 9](shirt9.png)
+
