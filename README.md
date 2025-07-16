@@ -33,7 +33,7 @@ cd revs-eg
 ## Revs T-shirts Collection
 ## Revs T-shirts Collection
 
-![Revs T-shirt 1](shirt1.png) revs-eg
+![Revs T-shirt 1](shirt1.png)
 
 ![Revs T-shirt 2](shirt2.png)
 
