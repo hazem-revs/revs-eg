@@ -32,7 +32,6 @@ cd revs-eg
 ![Revs T-shirt](shirt1.png)
 ## Revs T-shirts Collection
 ## Revs T-shirts Collection
-
 ![Revs T-shirt 1](shirt1.png)
 
 ![Revs T-shirt 2](shirt2.png)
@@ -50,11 +49,10 @@ cd revs-eg
 ![Revs T-shirt 8](shirt8.png)
 
 ![Revs T-shirt 9](shirt9.png)
-
 git add README.md
 git commit -m "Added 9 T-shirt images to README"
 git push
-
 [Buy Revs T-shirt 1](http://link-to-store.com)
-
-"Added 9 T-shirt images to README"
+git add README.md
+git commit -m "Added 9 T-shirt images to README"
+git push
